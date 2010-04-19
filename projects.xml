@@ -1,0 +1,99 @@
+<root>
+<Software>
+	<project>
+		<Title>Spacewar</Title>
+		<Version>2.2</Version>
+		<Date>12/2004</Date>
+		<Language>C++, OpenGL</Language>
+		<Purpose>Self Initiated</Purpose>
+		<Status>Completed</Status>
+		<Summary>This program uses OpenGL and Object Oriented C++. I programmed it my sophomore year winter break. I picked up a copy of "The Redbook" OpenGL guide, and taught myself OpenGL. The game is similar to the old arcade Centipede, but allowing the user to move anywhere in the screen, rotate and circle strafe. The game play is simple, and there's no real AI involved, I just wanted learn OpenGL and how to interface it with C++. To play this game, click on the link and download the zip file. Unzip the file and read the readme file for instructions.</Summary>
+		<Link>Spacewar2.2.zip</Link>
+	</project>
+	<project>
+		<Title>Evolve</Title>
+		<Version>1.0</Version>
+		<Date>10/2003</Date>
+		<Language>Java</Language>
+		<Purpose>Academic</Purpose>
+		<Status>Completed</Status>
+		<Summary>A java applet I wrote for CS10 in UCSB. It is a simulation environment that is animated using Java's screen page swapping technique. It simulates 2 animals, dragon and tiger, in a small environment where they interact. If two male objects meet, one is killed. If a male and a female object from the same race meet, they produce a new object. There are also side bars where you can adjust different values of the simulation. The purpose of this applet is to learn polymorphism from object oriented programming, and also graphics programming techniques. As extra credit, I also added a menu bar on top to adjust game settings. Click on the link to see. </Summary>
+		<Link>evolve.html</Link>
+	</project>
+	<project>
+		<Title>Monopole</Title>
+		<Version>1.0</Version>
+		<Date>10/2003</Date>
+		<Language>Java</Language>
+		<Purpose>Academic</Purpose>
+		<Status>Completed</Status>
+		<Summary>This is another java applet written for CS10 at UCSB. This applet is similar to the Japanese game "Go". The purpose is to surround your enemies. However, there's no board in the applet, your territory is calculated using the force field equation. After 42 moves (21 by each player), the player with the greatest area wins the game. You can also play against the computer, and change board colors. The replay slide shows you each move, to help you determine which move changed the game!  </Summary>
+		<Link>monopole.html</Link>
+	</project>
+</Software>
+
+<Hardware>
+	<project>
+		<Title>Wavy wand</Title>
+		<Purpose>Berkeley course</Purpose>
+		<Date>07/2007 - 08/2007</Date>
+		<Status>completed</Status>
+		<Summary>This project was for a lab course at Berkeley. I worked on it the summer before I started my first year of graduate school at UC Berkeley. The course was an embedded systems course, and the purpose of the lab was to introduce students to programming and creating embedded systems. The wand uses persistence of vision to display words in air. It's built with the Analog Devices 7026 evaluation board interfacing with a rate-gyro to get the angle of the wand. There are a row of 7 LEDs which the controller toggles to generate this POV display, so as you wave it in air, you will see the LEDs form a word or a phrase. There is also a sound part of the lab, using the built in DAC to generate sound based on the angle of the wand. </Summary>
+		<Link>#</Link>
+	</project>
+	<project>
+		<Title>BIAS</Title>
+		<Purpose>Senior Project</Purpose>
+		<Date>09/2006 - 06/2007</Date>
+		<Status>Completed</Status>
+		<Summary>Basic Integrated Audio System. This is an mp3 player that reads from a CF card with a built in FM transmitter, LCD and voice recording capabilities. This was designed for my senior capstone project. We started from choosing the processor, mp3 decoder/encoder chip, and other components. Interfacing them together, we used Eagle PCB layout editor to design and draw the layout. In April, we got back the board and wrote the firmware for it. Now, it's a fully functional MP3 player that can play back and record songs on a CF card using the FAT filesystem, so Windows is able to playback the recorded mp3 files as well! We also added features such as repeat/shuffle, and an equalizer to adjust bass, treble etc. This project was a great experience for designing systems, interfacing with different components, and also learning protocols and ways of communication between chips! </Summary>
+		<Link>#</Link>
+	</project>
+	<project>
+		<Title>BURP</Title>
+		<Purpose>Academic</Purpose>
+		<Date>05/2006 - 06/2006</Date>
+		<Status>completed</Status>
+		<Summary>Basic Undergraduate RISC Processor. This is a processor that we designed and built for the class Digital Design Methodologies (ECE152B) at UCSB. This processor was designed from the Instruction set Architecture, taking 16 basic instructions. The processor includes a stack and 4 registers. We interfaced an Arithmetic Logic Unit with Registers and an SRAM acting as the stack. We programmed the controller using Verilog on a FPGA and used it to decode instructions and send out the correct signals to control the processor. We simulated each component and verified the timing using Verilog, and then wrote a simple program and stored it on an EEPROM and executed it on our processor. </Summary>
+		<Link>#</Link>
+	</project>
+	<project>
+		<Title>Adaptive Radiolocation</Title>
+		<Purpose>Research</Purpose>
+		<Date>04/2006 - 06/2006</Date>
+		<Status>Paused</Status>
+		<Summary>This is a research project I worked on while teaming up with Professor Ryan Kastner from University of California, Santa Barbara. This project is focused on radiolocation without using GPS, but ISM-band radios (e.g. 802.11b). This project used a lot of signal processing and statistics formulas. My main focus was verification using Verilog. I took the existing Matlab and C code for our algorithm and simulated it using Verilog. I am currently not working on this project because of graduate school applications and other work, but I plan to resume next quarter or the following quarter. </Summary>
+		<Link>http://express.ece.ucsb.edu/radiolocation/</Link>
+	</project>
+</Hardware>
+
+<Web>
+	<project>
+		<Title>FSBL</Title>
+		<Language>PHP, Javascript, SQL, HTML, Joomla</Language>
+		<Purpose>Fellowship</Purpose>
+		<Date>07/2007 - 08/2006</Date>
+		<Status>completed</Status>
+		<Summary>Freestyle Street Basketball League. The web page was hacked together in one day using Joomla as a backend database. It was made for a gaming league I started for the  game “Freestyle Street Basketball.” It allowed users to signup for the league as a dream, and contained various features for team management. It was the first time I used an open source web content management system (Joomla) to build a whole site. What i did was download extensions and modules, and modified the PHP and SQL structure to fit my purpose. It served very well for its purpose, and I am still in the process of updating it as of now.</Summary>
+		<Link>http://www.freestyleleague.com</Link>
+	</project>
+	<project>
+		<Title>My homepage</Title>
+		<Language>HTML, XML, JS</Language>
+		<Purpose>Self initiated</Purpose>
+		<Date>12/2006 - 12/2006</Date>
+		<Status>Updating</Status>
+		<Summary>This page was a winter break project. I needed to update my website, and I wanted to learn more web techniques. The first thing I did was update the template. I chose this one designed by DCarter. Then, I learned different javascript and XML techniques in order for easy updating and separation between data and template. It was a success, and I learned AJAX and was able to implement it on this website.  I also registered a domain name to start being more serious about my own website. Hopefully I will learn more and will be able to test it on my own web space. </Summary>
+		<Link>http://www.isaacliu.info</Link>
+	</project>
+	<project>
+		<Title>AACF UCSB</Title>
+		<Language>PHP, SQL, HTML</Language>
+		<Purpose>Fellowship</Purpose>
+		<Date>12/2005 - 01/2006</Date>
+		<Status>completed</Status>
+		<Summary>This website was also a winter break project. I wanted to learn web scripting and database. I obtained an internship to Novacoast and my first project was to work on a PHP and SQL project, so I took the winter break to learn PHP first. I went to php.net and read the documentation, learning everything I could. Then, I started creating simple layouts and simple pages interfacing with a database. Eventually, after setting up a phpBB, I started digging into the code of phpBB, learning their template code and how their engine is setup. After learning it, I started to code different pages using phpBB as my backend database. Eventually, I created a whole intranet containing information and the ability to register online with forms and store in database. Besides the forums, I wrote all the backend code for the rest of the pages, and even integrated a photo album, synching it with the identity management of phpBB, so users only need one account and they log into both. This website was a huge success, and I am still adding new features! The website is currently in use, and my goal is to make it manageable by people who have no idea about HTML or FTP, and all contents are updatable online. </Summary>
+		<Link>http://www.aacfucsb.com</Link>
+	</project>
+</Web>
+</root>

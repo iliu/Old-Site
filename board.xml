@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<messageboard>
+
+<MESSAGE>
+<identifier>(27 december 2006, 23.35 ip: 69.226.210.18)</identifier>
+<author email='iliu@umail.ucsb.edu'>Isaac</author>
+<text>testing</text>
+</MESSAGE>
+
+<MESSAGE>
+<identifier>(27 december 2006, 06.06 ip: 24.6.66.134)</identifier>
+<author email='liu.isaac@gmail.com'>Isaac</author>
+<text>Don't forget to leave me a message!</text>
+</MESSAGE>
+
+</messageboard>

@@ -1,0 +1,64 @@
+<News>
+	<item>
+		<title>I'm Engaged!</title>
+		<date>01.29.2008</date>
+		<contents>I'm ENGAGED!! Very exciting, more will come on this. Since I dished out a bunch of resumes containing links to this website last week, I figure it's a good time to do some updating to keep the content on this site fresh. I changed the style sheet to make the page wider, this is so the photo page doesn't look as awkward, and also to setup the Calendar page that I recently added. I fixed up some broken links, and some layout issues. I will update more of the contents and resume this weekend. There might be some broken links or small issues with the website now, but they should be fixed up by this weekend! 
+		</contents>
+	</item>
+
+	<item>
+		<title>Added spam filter</title>
+		<date>09.06.2007</date>
+		<contents>Because of all the spam I've been getting, I've added a CAPTCHA block in the form to submit a post in the board. This is quite a useful block to determine if the post is from bot or a real human! Check out the CAPTCHA page at www.captcha.net. We'll see how well it works after a couple days. Hopefully I won't have to go back and delete spam posts everyday now!
+		</contents>
+	</item>
+	<item>
+		<title>A big update!</title>
+		<date>08.18.2007</date>
+		<contents>I'm not longer an undergraduate student! Haha, ok. I had to do some major updates since so much has changed! I also added a photo album to my page! I used iframe to link it directly to my google web album, so i can just use picasa to update it! I even added some pictures up from Berkeley! But a bulk of the pictures are from my recent trip to Asia, it was awesome! I'm also updating my resume and projects page slowly, just to keep a record of all the things I've done. I also fixed up the board and contact page, it wasn't working after i changed web hosts. Classes start two weeks from now, gotta get going!</contents>
+	</item>
+	<item>
+		<title>Contact page in AJAX!!</title>
+		<date>12.30.2006</date>
+		<contents>Finally got both IE and Firefox to work with the contact page using AJAX! I wrote a simple Perl script to do the mailing, and used AJAX for the interface. It's actually quite cool, gives it a little gmail feel when your sending me mail. So if you want to contact me, feel free to use the contact page or leave me a message on the message board! I have some stuff piled up for me to do, so I will upload some pictures once my schedule clears up. Happy new year!</contents>
+	</item>
+
+	
+	<item>
+		<title>Message board!!</title>
+		<date>12.27.2006</date>
+		<contents>Added a message board using XML and PHP! It's pretty neat, so if your just visiting the website, be sure to stop by the board and leave me a message! I also updated the projects page using AJAX as well, giving the website more of an application feel. The previous web host ahplace.com was hacked, so I changed web hosts to logical-host.com. It's also a free web host with scripting and SQL except it only provides 1GB space, but it's plenty for me. I still need to update the contents of the projects page and put up more pictures, so look forward to that!</contents>
+	</item>
+
+	
+	<item>
+		<title>New domain + Web host!!</title>
+		<date>12.25.2006</date>
+		<contents>I registered my own domain name!! Now I have isaacliu.info as my web page now. I also switched web hosts because once I graduate I might not have the uweb space anymore. Now I am using ahplace.com's free web hosting. It's very neat and provides 5GB space with scripting and SQL! I'm going to redirect the uweb page here now, so please update your bookmarks or links from the old one to this new one!!</contents>
+	</item>
+
+	<item>
+		<title>AJAX!!</title>
+		<date>12.25.2006</date>
+		<contents>Updated the Experience page, and added AJAX! Now the contents will change without needing to refresh the page. Try clicking on the different experiences I had, and you will see that the page does not reload. Very neat! I am also in the process of trying to find a good free web host, since I will be graduating soon, I cannot stay at this uweb domain anymore. I will migrate the site again as soon as I find a good web host.</contents>
+	</item>
+
+	<item>
+		<title>Migrated + more updates!!</title>
+		<date>12.23.2006</date>
+		<contents>Finally migrated the website online! Now it's live and running even though more updates need to be added. I updated the resume page to include both software and hardware resumes. Now the missing pages are projects, experience and contact. I should be able to finish by next week.</contents>
+	</item>
+	<item>
+		<title>Updates + New Layout!!</title>
+		<date>12.23.2006</date>
+		<contents>Updated the contents of this website. The updates include a new layout, updated resume and contact information, plus a new "Photos" page that will soon be updated with some pictures. I am also experimenting with XML and this news section, as currently the news is read from a XML file. The Latest news column is also read from this XML file, and will display the first 2 titles from most recent news. Look forward to more updates!</contents>
+	</item>
+	<item>
+		<title>Testing new website techniques..</title>
+		<date>12.22.2006</date>
+		<contents>Looking forward to updating my webpage! Looking up templates and getting ready to change the layout and try out new techniques. I'm currently researching on how to use XML to separate data and template. If possible, then I can easily change the layout without tampering with the data of the website! Will update soon again!</contents>
+	</item>
+	
+</News>
+
+

@@ -1,0 +1,46 @@
+<root>
+<experience>
+	<company>Microsoft</company>
+	<date>06/2006 - 09/2006</date>
+	<summary>The summer of 2006 I got an opportunity to intern as Microsoft as a Software Design 
+Engineer. I worked in the Windows division, core deployment group. We are in charge of the setup 
+and installation of Windows. I worked on a specific file format called the WIM, Windows imaging file. 
+I designed my own project on this file format, which was a tool used to analyze the file format in 
+specific ways. The tool itself traversed through the meta data and also other data to look for specific 
+ways it could be optimized. Since a WIM file is crucial to the setup of Vista, every mb we can shrink 
+it could potentially cut down on setup time, thus it was a useful tool. The exerperience there was great 
+as the atmosphere was friendly. I was most impressed that i actually got an office (shared with someone 
+of course), i thought we were getting cubicals for sure. This is my first experience working in a corporate, 
+it really opened my eyes. The interns also got a chance to go to Bill Gates' house for a BBQ, so that 
+was an experience in itself. </summary>
+	<link>http://www.microsoft.com</link>
+</experience>
+
+<experience>
+	<company>Novacoast Inc</company>
+	<date>12/2005 - 04/2006</date>
+	<summary>Novacoast is a Santa Barbara local Information and Technology company. I had the opportunity to intern there during the winter quarter of my junior year. They mainly deal with identity management and various other IT stuff. My project was to cleanup their invoice system backend code, and to structure it using object oriented classes for extensibility and manageability. The code itself was written in PHP with postgreSQL. I also looked into ways of separating data with template on a website. This included digging into the phpBB code, and understanding their template system. Also, I researched about AJAX and various other web techniques to interface their backend invoice database server. It was a good experience, including a trip to LA for the annual company meeting.</summary>
+	<link>http://www.novacoast.com</link>
+</experience>
+
+
+<experience>
+	<company>Nvidia</company>
+	<date>06/2007 - 09/2007</date>
+	<summary>I had an opportunity to intern at Nvidia for their kernal coding group the summer after I graduated from UCSB. However, the transition between a quarter school (UCSB) and a semester school (UCB) cut my summer short by one month. As a result, the internship at Nvidia had to be canceled. So instead i took the summer to travel around Asia (Taiwan, HK, Japan) and went to Berkeley a month early to start on projects so I could get a head start on my graduate studies. I have talked to my assigned manager and recruiting HR, it's possible i will re-apply next summer, depending on my own schedule.</summary>
+	<link>http://www.nvidia.com</link>
+</experience>
+
+<experience>
+	<company>Undergrad Research</company>
+	<date>04/2006 - 06/2006</date>
+	<summary>I had the privilege to work with Professor Ryan Kastner from the University of California, 
+Santa Barbara Electrical and Computer Engineering Department. I joined his research group called ExPRESS (Extensible Programmable and Reconfigurable Embedded Systems) spring quarter of my junior year, and worked 
+on the project "Adaptive Radiolocation for Mobile Sensor Networks". The project focused on GPS-less radiolocation
+ using ISM bands. Because GPS signals are less accurate in doors, so we're looking to use 802.11b signals 
+to pinpoint location. I mained did verification work using verilog, since i joined the group in the later 
+stage of the project. It was a good experience to work with graduate students and professor, and I'm looking
+ forward to more cooperation in the future.</summary>
+	<link>http://express.ece.ucsb.edu/radiolocation</link>
+</experience>
+</root>

@@ -1,0 +1,102 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+  <title>Isaac's Homepage</title>
+  <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+
+  <!-- **** layout stylesheet **** -->
+  <link rel="stylesheet" type="text/css" href="style/style.css" />
+
+  <!-- **** colour scheme stylesheet **** -->
+  <link rel="stylesheet" type="text/css" href="style/colour.css" />
+
+
+  <!-- Javascript for XML for News -->
+  <script src="news.js">
+  </script>
+</head>
+
+<body onload="importXML()">
+  <div id="main">
+    <div id="links">
+      <!-- **** INSERT LINKS HERE **** -->
+      Welcome to the homepage of Isaac Liu!
+    </div>
+    <div id="logo"></div>
+    <div id="content">
+      <div id="menu">
+        <ul>
+          <li><a id="selected" href="index.html">home</a></li>
+          <li><a href="about.html">About Me</a></li>
+		    <li><a href="calendar.html">Calendar</a></li>
+          <li><a href="resume.html">Resume</a></li>
+          <li><a href="projects.html">Projects</a></li>
+	  <li><a href="experience.html">Experience</a></li>
+	    <li><a href="photo.html">Photos</a></li>
+	  <li><a href="board.html">Board</a></li>
+          <li><a href="contact.html">Contact</a></li>
+        </ul>
+      </div>
+      <div id="column1">
+        <div class="sidebaritem">
+          <div class="sbihead">
+            <h1>latest news</h1>
+          </div>
+          <div class="sbicontent">
+            <!-- **** INSERT NEWS ITEMS HERE **** -->
+            <h2 ID="newsdate0"></h2>
+            <p ID="newstitle0"></p>
+            <p><a href="#news0">read more ...</a></p>
+            <p></p>
+            <p></p>
+            <h2 ID="newsdate1"></h2>
+            <p ID="newstitle1"></p>
+            <p><a href="#news1">read more ...</a></p>
+          </div>
+        </div>
+        <div class="sidebaritem">
+          <div class="sbihead">
+            <h1>additional links</h1>
+          </div>
+            <!-- **** INSERT ADDITIONAL LINKS HERE **** -->
+	  <div class="sbilinks2">
+	     <ul>
+	       <li><a href="http://chess.eecs.berkeley.edu">Center for Hybrid and Embedded Software Systems</a></li>
+	       <li><a href="http://www.ece.berkeley.edu">UC Berkeley Electrical and Computer Science Department</a></li>
+              <li><a href="http://www.ucsb.edu">University of California,<br>Santa Barbara</a></li>
+	     </ul>
+	     <ul>
+              <li><a href="http://www.ece.ucsb.edu">UCSB Electrical and Computer Engineering Department</a></li>
+              <li><a href="http://www.aacfucsb.info">Asian American Christan Fellowship, UCSB</a></li>
+            </ul>
+          </div>
+        </div>
+       
+      </div>
+      <div id="column2">
+        <h1>Introduction</h1>
+        <!-- **** INSERT PAGE CONTENT HERE **** -->
+       <span class="left"><img src="me.JPG" alt="My Picture" /></span>
+        <p>
+          Welcome to my homepage! I'm Isaac, currently a student in the University of California, Berkeley Electrical Engineering and Computer Science Department starting on my first year in the PhD program. My research focus is on Embedded Systems, and I’m in Professor Edward Lee's CHESS (Center for Hybrid and Embedded Software Systems) group. I obtained my B.S. for Computer Engineering at UCSB. I like playing and watching basketball, enjoy playing guitar and some occasional web design. I love Jesus and believe that he is my savior and friend! I was part of Asian American Christian Fellowship in UCSB, and Good Shepard Christian Church in Fremont, CA. Enjoy your stay here, and feel free to leave a message for me on my message board <a href="board.html">here</a>, or you can contact me <a href="contact.html">here</a> if you have any questions! !
+</p>
+	<p><b>*Safari seems to have problems with the xml parsers I currently implement, so the news and AJAX features appear to be blank. I will look into that.</b></p>
+
+	<!-- NEWS SECTION -->
+	
+        <h1>News</h1>
+	<P ID="writenews"></P>
+        
+      </div>
+    </div>
+    <div id="footer">
+      copyright &copy; 2006 Isaac Liu | <a href="http://validator.w3.org/check?uri=referer">XHTML 1.1</a> | <a href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> | <a href="http://www.dcarter.co.uk">design by dcarter</a>
+    </div>
+  </div>
+
+<div style="font-size: 0.8em; text-align: center; margin-top: 1.0em; margin-bottom: 1.0em;">
+Design provided by <a href="http://www.freewebtemplates.com/">Free Web Templates</a> - your source for free website templates
+</div>
+</body>
+</html>
