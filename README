@@ -1,0 +1,8 @@
+This is my old website, some of the special features include:
+* Parsing XML files for the data on the website. I wanted to separate the data and layout of the website, so in this version i hand coded all the java scripts and AJAX to be able to parse xml files and retrieve the needed data and put it on the website.
+* Mostly static pages already, but they were all hand coded, except for some special pages that use AJAX
+* Used some iframes for my calendar and photos which link to picasa and google calendar.
+
+Mostly it was my first interaction with AJAX, and a lot of it was hand coded to really understand what AJAX did. It was a great experience. Now that i have moved on to dynamically generated static pages (Webby), i am retiring this website. 
+
+Most of the linkes work, but some of them don't because i removed the pages they link to. 
